@@ -103,10 +103,13 @@
     "alert_count": 46,
     "owners_count": 3861,
     "dlcs": [
-        "https://gg.deals/us/dlc/tricky-towers-indie-friends-pack/",
-        "https://gg.deals/us/dlc/tricky-towers-spirit-animal-pack/",
-        "https://gg.deals/us/dlc/tricky-towers-galaxy-bricks/",
-        "https://gg.deals/us/dlc/tricky-towers-candy-bricks/"
+        "https://gg.deals/ru/dlc/tricky-towers-indie-friends-pack/",
+        "https://gg.deals/ru/dlc/tricky-towers-spirit-animal-pack/",
+        "https://gg.deals/ru/dlc/tricky-towers-galaxy-bricks/",
+        "https://gg.deals/ru/dlc/tricky-towers-candy-bricks/",
+        "https://gg.deals/ru/dlc/tricky-towers-gem-bricks/",
+        "https://gg.deals/ru/dlc/tricky-towers-holographic-bricks/",
+        "https://gg.deals/ru/dlc/tricky-towers-original-soundtrack/"
     ],
     "packs": [],
     "market_url": "https://store.steampowered.com/app/437920/",
